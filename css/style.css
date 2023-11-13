@@ -1,0 +1,62 @@
+.center{
+    
+  width: 33%;
+  margin-top: 17%;
+  margin-left: 37%;
+  
+}
+
+.metin{
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    margin: 0;
+    padding: 0;
+}
+.search{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    
+}
+.maker{
+    margin: 0;
+    padding: 0;
+
+}
+.demo{
+    
+    margin-left: 25%;
+    
+    
+}
+.container{
+    
+    text-align: center;
+    
+}
+
+
+table{
+    width: 100%;
+}
+.box1{
+    width: 40%;
+    background-color: #7EE5DA;
+}
+.box2{
+    width: 20%;
+    background-color: #7EE5DA;
+}
+.box3{
+    width: 40%;
+    background-color: #62b3aa;
+}
+li{
+    list-style-type: none;
+    padding: 5px;
+    margin: auto;
+}
+.n{
+    text-align: center;
+}
